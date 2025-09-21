@@ -1,0 +1,8 @@
+# ignore personal notes and env secrets
+notes.txt
+secret.env
+# ignore all log files
+*.log
+# ignore OS files and editor folders
+.DS_Store
+.vscode/
