@@ -5,4 +5,4 @@ secret.env
 *.log
 # ignore OS files and editor folders
 .DS_Store
-.vscode/
+.vscode/*.log
